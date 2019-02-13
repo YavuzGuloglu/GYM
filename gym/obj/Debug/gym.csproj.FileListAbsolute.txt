@@ -1,0 +1,17 @@
+D:\a\gym\bin\Debug\gym.exe.config
+D:\a\gym\bin\Debug\gym.exe
+D:\a\gym\bin\Debug\gym.pdb
+D:\a\gym\bin\Debug\Newtonsoft.Json.dll
+D:\a\gym\bin\Debug\System.Net.Http.Extensions.dll
+D:\a\gym\bin\Debug\System.Net.Http.Formatting.dll
+D:\a\gym\bin\Debug\System.Net.Http.Primitives.dll
+D:\a\gym\bin\Debug\Newtonsoft.Json.pdb
+D:\a\gym\bin\Debug\Newtonsoft.Json.xml
+D:\a\gym\obj\Debug\gym.AnaForm.resources
+D:\a\gym\obj\Debug\gym.Properties.Resources.resources
+D:\a\gym\obj\Debug\gym.csproj.GenerateResource.cache
+D:\a\gym\obj\Debug\gym.csproj.CoreCompileInputs.cache
+D:\a\gym\obj\Debug\gym.csproj.CopyComplete
+D:\a\gym\obj\Debug\gym.exe
+D:\a\gym\obj\Debug\gym.pdb
+D:\a\gym\obj\Debug\gym.csprojAssemblyReference.cache
