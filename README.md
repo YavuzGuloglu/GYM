@@ -6,6 +6,6 @@ Deskop application
 
 
 
----
-> ![](https://i.hizliresim.com/Z4XTRK.jpg)
----
+
+![](https://i.hizliresim.com/Z4XTRK.jpg)
+
